@@ -1,0 +1,4 @@
+feeder_segment_id	max_hosting_capacity	substation_id
+feeder123	150	substationA
+feeder456	80	substationB
+feeder789	200	substationC

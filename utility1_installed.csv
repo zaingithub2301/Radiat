@@ -1,0 +1,4 @@
+feeder_id	type	generation_capacity
+feeder123	Rooftop Solar	50
+feeder123	Energy Storage	20
+feeder456	Community Solar	75

@@ -1,0 +1,5 @@
+
+feeder_id	type	generation_capacity
+feederABC	Fuel Cells	45
+feederDEF	Combined Heat and Power	30
+feederGHI	Rooftop Solar	50
